@@ -15,6 +15,7 @@ Finally, step into full-stack development with a MERN project.
 This structure really helped me pace my learning and stay motivated throughout the month.
 
 🛠️ The Projects I Worked On
+
 1️⃣ Amazon Clone (Frontend Basics)
 
 The first week was all about frontend mastery. I created a clone of the Amazon homepage using HTML, CSS, and JavaScript.
@@ -59,5 +60,4 @@ This is just the beginning — and I’m excited to keep learning, experimenting
 I’m truly grateful to KANT IT, Rajkot for this opportunity. The guidance and support I received helped me explore my potential and push my limits.
 This 1-month journey not only sharpened my technical skills but also gave me the confidence to tackle bigger challenges in the future.
 
-This was a turning point where I realized,
-👉 “Yes, I can build a full-stack application from scratch.”
+
